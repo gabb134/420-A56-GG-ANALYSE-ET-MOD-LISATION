@@ -1,0 +1,11 @@
+Examen Analyse, via moodle
+
+MArdi prochain exercice de revision
+
+
+Toute la matière qu'on a vu : MCD, MPD, cardinalités,determne les cle primaire. segondaire, 
+premiere,2iem, 3iem  forme,
+besoin fonctionnel,technique, operationell ,les acteurs,
+diagramme de  cas dutilisation 
+
+Durée: Normalment 3h
